@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\bin\Debug\net6.0\022-fizzbuzz.exe
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\bin\Debug\net6.0\022-fizzbuzz.deps.json
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\bin\Debug\net6.0\022-fizzbuzz.runtimeconfig.json
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\bin\Debug\net6.0\022-fizzbuzz.dll
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\bin\Debug\net6.0\022-fizzbuzz.pdb
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\obj\Debug\net6.0\022-fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\obj\Debug\net6.0\022-fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\obj\Debug\net6.0\022-fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\obj\Debug\net6.0\022-fizzbuzz.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\obj\Debug\net6.0\022-fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\obj\Debug\net6.0\022-fizzbuzz.dll
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\obj\Debug\net6.0\refint\022-fizzbuzz.dll
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\obj\Debug\net6.0\022-fizzbuzz.pdb
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\obj\Debug\net6.0\022-fizzbuzz.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\Pro\022-fizzbuzz\obj\Debug\net6.0\ref\022-fizzbuzz.dll
